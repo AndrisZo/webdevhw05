@@ -1,0 +1,28 @@
+Please fill in answers to the questions below:
+
+1. What's your name?
+Andris Zonies
+
+2. What hostname did you deploy to?
+hw05.physicalmod.com
+
+3. Which parts of this assignment did you have trouble with, if any?
+The integration between the JS code and the Elixir end. We were really not well prepared to handle errors in that process,
+I wish we had been taught how to debug those issues better. 
+
+4. What part of your application state is on the server?
+The secret digits, feedback text, the guesses the user has made, and the gamestate
+
+5. What part of your application state, if any, is in the browser?
+Teh text input field, the list of guesses the user has made, the number of bulls for each guess, the number of cows for each guess,
+the game state, and some feedback text that displays when the server gets bad input (not 4 unique numbers)
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
